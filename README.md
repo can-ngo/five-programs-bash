@@ -1,5 +1,4 @@
-# five-programs-bash
-This is five simple program to learn Bash Scripting Language.
+This is five simple programs to learn Bash Scripting Language.
 ---------------------------------------------------------------------------------------------------
 
 #!/bin/bash
